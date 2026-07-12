@@ -1,0 +1,6 @@
+{
+  "name": "Wok & Flame",
+  "description": "Authentic Chinese Flavor, Delivered Fast. Browse our signature menu, build your custom order, and crack an AI fortune cookie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
