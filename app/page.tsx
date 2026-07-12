@@ -1040,12 +1040,12 @@ export default function Home() {
 
                   <div className="p-4 bg-surface rounded-xl border border-outline-variant/30">
                     <h4 className="font-display font-bold text-sm text-on-surface flex items-center gap-1.5">
-                      <MapPin className="w-4 h-4 text-primary" /> Hydra Plaza
+                      <MapPin className="w-4 h-4 text-primary" /> Batna Plaza
                     </h4>
                     <p className="text-xs font-sans text-on-surface-variant mt-1.5">
-                      Boulevard du 11 Decembre, Hydra
+                      Avenue de l&apos;Indépendance, Batna
                     </p>
-                    <span className="text-[10px] font-sans text-emerald-600 font-bold uppercase tracking-wider block mt-2">Open Now • Takeout & Delivery</span>
+                    <span className="text-[10px] font-sans text-emerald-600 font-bold uppercase tracking-wider block mt-2">Open Now • Takeout &amp; Delivery</span>
                   </div>
 
                   <div className="p-4 bg-surface rounded-xl border border-outline-variant/30">
